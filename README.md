@@ -107,11 +107,9 @@ We welcome contributions from the community! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
-Please refer to our [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for more details.
-
 ## Team
 
-- **Project Guide:** *Dr. Rajat Kumar Behra*
+- **Project Guide:** *Dr. Rajat Kumar Behera*
 - **Project Leader:** *Raunit Raj*
 - **Programmer:** *Raunit Raj*
 - **Data Research:** *Raunit Raj*
